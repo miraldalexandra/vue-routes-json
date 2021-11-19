@@ -1,0 +1,20 @@
+{
+    "devs": [
+        {
+            "title": "Web Developer",
+            "details": "lorem",
+            "id": 1
+        },
+        {
+            "title": "Web Designer",
+            "details": "lorem",
+            "id": 2
+        },
+        {
+            "title": "Vue Developer",
+            "details": "lorem",
+            "id": 3
+        }
+    ],
+    "blogs": []
+}
